@@ -1,0 +1,68 @@
+*{margin:0px}
+hr{
+    border: 1px solid rgb(147, 147, 147);  
+}
+
+.text{
+    text-align: center;
+}
+#image{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+}
+
+h3{
+    color: rgb(147, 147, 147);
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+table {
+    width: 100%; /* Pour que le tableau prenne toute la largeur de son conteneur */
+}
+
+th, td {
+    text-align: center; /* Alignement du texte */
+    border-spacing: 20px;
+    border-radius: 50px;
+}
+#videoytb{
+    text-align: center;
+}
+
+footer {
+    background-color: #191919; /* Couleur de fond du footer */
+    color: white; /* Couleur du texte */
+    text-align: center; /* Centrer le texte */
+    padding: 50px 0px; /* Espacement vertical */
+    position:relative; /* Pour le positionnement */
+    bottom: 0; /* Pour le placer en bas */
+    width: 100%; /* Prendre toute la largeur */
+}
+
+
+body {
+    background-color: #212121;
+    font-family: Arial, sans-serif;
+    margin-bottom: -20px;
+    padding: 0px;
+}
+#navbar{
+    text-align: center;
+}
+
+h1{
+    color: rgb(199, 199, 199);
+    height: 30px;
+    text-align:left;
+    margin-left: 50px;
+    margin-top: -20px;
+}
